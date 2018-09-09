@@ -4,11 +4,10 @@ import shelve
 
 fileName = 'mydata'
 
-
-#shelfFile = shelve.open(fileName)
+# shelfFile = shelve.open(fileName)
 # cats = ['Zophie', 'Pooka', 'Simon']
-#shelfFile['cats'] = cats
-#shelfFile.close()
+# shelfFile['cats'] = cats
+# shelfFile.close()
 
 shelfFile = shelve.open(fileName)
 print(type(shelfFile))
