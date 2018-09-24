@@ -1,0 +1,34 @@
+1537802977786	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wVxH1vmSEila"
+1537802979840	Marionette	INFO	Listening on port 33451
+1537802979899	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537802979968	Marionette	DEBUG	[2147483649] Frame script loaded
+1537802979974	Marionette	DEBUG	[2147483649] Frame script registered
+[Parent 6864, Gecko_IOThread] WARNING: pipe error (46): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537802988639	Marionette	INFO	Stopped listening on port 33451
+1537803174685	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tJdCiGxvD1YF"
+1537803176501	Marionette	INFO	Listening on port 41177
+1537803176599	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537803176668	Marionette	DEBUG	[2147483649] Frame script loaded
+1537803176672	Marionette	DEBUG	[2147483649] Frame script registered
+1537803176691	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537803177855	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1537803179083	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://inventwithpython.com/
+1537803182244	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://inventwithpython.com/
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1537803312288	Marionette	INFO	Stopped listening on port 41177
+1537803314882	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kFYEDOrzl4BW"
+1537803316910	Marionette	INFO	Listening on port 33175
+1537803316993	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537803317068	Marionette	DEBUG	[2147483649] Frame script loaded
+1537803317090	Marionette	DEBUG	[2147483649] Frame script registered
+1537803317126	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537803318115	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1537803319483	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://inventwithpython.com/
+1537803321547	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://inventwithpython.com/
+1537803321682	Marionette	DEBUG	[2147483649] Received DOM event popstate for http://inventwithpython.com/#cracking
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+[Parent 7533, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537806624442	Marionette	INFO	Stopped listening on port 33175
