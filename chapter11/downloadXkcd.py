@@ -13,9 +13,9 @@ os.makedirs('xkcd', exist_ok=True)
 # store comics in ./xkcd
 
 MaxNumber = 5 # Max Number of images to download
-counter = 1 # initialize counter
+counter = 1
 
-while not url.endswith('#') and counter <= MaxNumber:
+while not url.endswith('#') and counter in range(MaxNumber+1):
 
     # Download the page.
     print('Downloading page No.%d %s...' %(counter, url))
